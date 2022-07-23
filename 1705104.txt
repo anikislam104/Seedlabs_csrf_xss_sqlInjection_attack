@@ -1,0 +1,7 @@
+CSRF and XSS:
+
+https://drive.google.com/drive/folders/12MBNgF-LC17TLsCXEFcnFaXvc4ueoaKF?usp=sharing
+
+SQL Injection
+
+https://drive.google.com/drive/folders/1yD0OXu50x7pMIGX1lb8jNG1kmcIc6cQn?usp=sharing
